@@ -1,3 +1,7 @@
+// models.book.js
+// Daniel Machado Justo da Silva
+//301203886
+// Mid-Term Test
 
 let mongoose = require('mongoose');
 

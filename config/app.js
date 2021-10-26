@@ -1,3 +1,8 @@
+// config.app.js
+// Daniel Machado Justo da Silva
+//301203886
+// Mid-Term Test
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
